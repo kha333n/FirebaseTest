@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseTest</string>
+    <string name="sendDataButtonLabel">Send Data to Firebase</string>
+    <string name="mainPageHeader">Firebase Test App</string>
+</resources>
